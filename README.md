@@ -48,3 +48,28 @@ Apne local system par is project ko chalane ke liye niche diye gaye steps follow
 ```bash
 git clone [https://github.com/MD-Hussain-Akhtar/agency-project.git](https://github.com/MD-Hussain-Akhtar/agency-project.git)
 cd agency-project
+
+cd backend
+npm install
+PORT=5000
+DB_HOST=localhost
+DB_USER=root
+DB_PASS=your_mysql_password
+DB_NAME=agency_db
+GEMINI_API_KEY=your_gemini_api_key
+
+node server.js
+
+
+cd agency-project/frontend
+npm install
+npm run dev
+👨‍💻 Author
+MD Hussain Akhtar
+
+YouTube: codewithnova
+
+GitHub: @MD-Hussain-Akhtar
+
+
+<FollowUp label="Kya aapko is Markdown file ko project mein save karke GitHub par update karne mein
