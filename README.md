@@ -72,4 +72,4 @@ YouTube: codewithnova
 GitHub: @MD-Hussain-Akhtar
 
 
-<FollowUp label="Kya aapko is Markdown file ko project mein save karke GitHub par update karne mein
+<FollowUp label="Kya aapko is Markdown file ko project mein save karke GitHub par update karne mein koi aur sahayata chahiye?" query="Maine README.md file ko update kar diya hai, ab ise GitHub par push karne ke liye git commands kya hongi?"/>
